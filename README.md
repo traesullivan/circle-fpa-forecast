@@ -1,4 +1,4 @@
-# Circle Financial Forecasting Model  
+# Financial Forecasting Model  
 A Python-based financial forecasting project for Circle, demonstrating predictive analytics and data visualization.
 
 # Overview  
